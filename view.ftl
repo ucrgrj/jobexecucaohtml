@@ -116,7 +116,7 @@ Administrador, indique um SC a pesquisar
 </div>
 </div>
 </div><!--  idArtNLREExtra -->
-<!-- --------------%%%%%%%%%%%%%%%--------------------TABELA DE TIMESHEETS DETALHADOS---------------- -->
+<!-- --------------%%%%%%%%%%%%%%%---------------00-----TABELA DE TIMESHEETS DETALHADOS---------------- -->
 
 <div class="claTBNLREDETROTULO">
 <div id="idDivRDSpinner"></div>
