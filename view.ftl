@@ -1,5 +1,6 @@
 <div id="NLRE_${instanceId}" class="super-widget wcm-widget-class fluig-style-guide" data-params="NLRE.instance()">
 	<script type="text/javascript" src="/webdesk/vcXMLRPC.js"></script>
+	<!-- AQUI VOU PÔR UM COMENTÁRIO QUE DEVE SUMIR NO PRÓXIMO PUSH -->
 <div class="container-fluid">	
 <div id="idDivNLRESC" class="row" style="width:50%;display:block;margin-left: auto;margin-right: auto;margin-bottom:10px;outline: blue solid 2px;padding:10px;">
 <label class="col-md-12" style="color:blue;text-align:center;" title="Visível somente para Administradores. SC não precisam desta seleção porque o código já reconhece qual SC está no aplicativo e já seleciona para ele">
