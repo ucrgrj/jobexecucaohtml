@@ -1,6 +1,5 @@
 <div id="NLRE_${instanceId}" class="super-widget wcm-widget-class fluig-style-guide" data-params="NLRE.instance()">
 	<script type="text/javascript" src="/webdesk/vcXMLRPC.js"></script>
-	<!-- AQUI VOU PÔR UM COMENTÁRIO QUE DEVE SUMIR NO PRÓXIMO PUSH -->
 <div class="container-fluid">	
 <div id="idDivNLRESC" class="row" style="width:50%;display:block;margin-left: auto;margin-right: auto;margin-bottom:10px;outline: blue solid 2px;padding:10px;">
 <label class="col-md-12" style="color:blue;text-align:center;" title="Visível somente para Administradores. SC não precisam desta seleção porque o código já reconhece qual SC está no aplicativo e já seleciona para ele">
@@ -46,7 +45,7 @@ Administrador, indique um SC a pesquisar
 <label><img src='/w_ucrg_nlequipe/resources/images/multiplicar.png' height='20' width='20'/><font color="#003e3e" size="2">PENDENTE </font><img src='/w_ucrg_nlequipe/resources/images/sim.png' height='20' width='20'/><font color="#003e3e" size="2">CONCLUÍDO </font> <img src='/w_ucrg_nlequipe/resources/images/seta-dupla.png' height='20' width='20'/><font color="#003e3e" size="2">TRANSFERIDA </font></label>
 
 </div>
-<!-- ----------%%%%%%%%%%%%%%%%%%%%------PUS NO MASTER. VAMOS VER QUEM PRELACE----------- TABELA PRINCIPAL E DE TRANSFERÊNCIA DE NOTAS (NÃO DE FILES)-->
+<!-- ----------%%%%%%%%%%%%%%%%%%%%------- TABELA PRINCIPAL E DE TRANSFERÊNCIA DE NOTAS (NÃO DE FILES)-->
 <div style="height:300px;overflow-y: scroll;">
 <div>
 <table id="idTabNLRENL"></table>
