@@ -46,7 +46,7 @@ Administrador, indique um SC a pesquisar
 <label><img src='/w_ucrg_nlequipe/resources/images/multiplicar.png' height='20' width='20'/><font color="#003e3e" size="2">PENDENTE </font><img src='/w_ucrg_nlequipe/resources/images/sim.png' height='20' width='20'/><font color="#003e3e" size="2">CONCLUÍDO </font> <img src='/w_ucrg_nlequipe/resources/images/seta-dupla.png' height='20' width='20'/><font color="#003e3e" size="2">TRANSFERIDA </font></label>
 
 </div>
-<!-- ----------%%%%%%%%%%%%%%%%%%%%----------------- TABELA PRINCIPAL E DE TRANSFERÊNCIA DE NOTAS (NÃO DE FILES)-->
+<!-- ----------%%%%%%%%%%%%%%%%%%%%------PUS NO MASTER. VAMOS VER QUEM PRELACE----------- TABELA PRINCIPAL E DE TRANSFERÊNCIA DE NOTAS (NÃO DE FILES)-->
 <div style="height:300px;overflow-y: scroll;">
 <div>
 <table id="idTabNLRENL"></table>
